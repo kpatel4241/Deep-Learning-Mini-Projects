@@ -31,7 +31,7 @@ last_loss = None
 # Initialize weights
 weights = np.random.normal(scale=1 / n_features**.5, size=n_features)
 
-# Neural Network hyperparameters
+# Neural Network Hyperparameters
 epochs = 400
 learnrate = 0.40
 
